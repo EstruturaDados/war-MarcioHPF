@@ -49,6 +49,5 @@ for (i = 0; i < 5; i++) {
     printf("Tropas: %d\n", territorios[i].tropas);
 }
 
-printf("\nCadastro concluído com sucesso!\n");
 return 0;
 }
